@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estmad
-- 👀 I’m interested in poetic and narrative programation language
-- 🌱 I’m currently learning literatute, python and tai chi
+- 👀 I’m interested in poetic and narrative programing language
+- 🌱 I’m currently learning literature, python and tai chi
 - 💞️ I’m looking to collaborate on a recapitulation game
 - 📫 How to reach me write and email o find me in a dream
 
